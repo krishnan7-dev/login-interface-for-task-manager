@@ -1,2 +1,2 @@
-# login-interface-for-task-manager
+# Login Interface for Task Manager
 Submission for QSTP assignment
